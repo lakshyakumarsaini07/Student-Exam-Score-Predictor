@@ -62,4 +62,3 @@ The [predictor.py](l:/Student%20Exam%20Score%20Prediction%20project/predictor.py
 ## Notes
 
 - Ensure the file paths in the code (e.g., CSV file location) match your local setup.
-- Adjust the hyperparameters or preprocessing steps as needed to improve performance.
